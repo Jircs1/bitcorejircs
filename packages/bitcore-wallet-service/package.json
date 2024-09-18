@@ -53,7 +53,7 @@
     "crypto-wallet-core": "^10.0.30",
     "email-validator": "1.2.3",
     "ethers": "4.0.0-beta.3",
-    "express": "4.17.1",
+    "express": "4.20.0",
     "express-rate-limit": "2.14.2",
     "inherits": "2.0.4",
     "istanbul": "0.4.5",
